@@ -1,0 +1,37 @@
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.deps.json
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.runtimeconfig.json
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.runtimeconfig.dev.json
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.dll
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.pdb
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.csprojAssemblyReference.cache
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.csproj.CoreCompileInputs.cache
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.AssemblyInfoInputs.cache
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.AssemblyInfo.cs
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.dll
+C:\Users\gsantos\Documents\reposCurso\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.pdb
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.deps.json
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.runtimeconfig.json
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.runtimeconfig.dev.json
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.dll
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.pdb
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.csproj.AssemblyReference.cache
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.AssemblyInfoInputs.cache
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.AssemblyInfo.cs
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.dll
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.pdb
+C:\Users\gerso\Downloads\PracticaVI-20210917T005831Z-001\PracticaVI\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.genruntimeconfig.cache
+E:\.NET CORE\PracticaIV\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.deps.json
+E:\.NET CORE\PracticaIV\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.runtimeconfig.json
+E:\.NET CORE\PracticaIV\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.runtimeconfig.dev.json
+E:\.NET CORE\PracticaIV\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.dll
+E:\.NET CORE\PracticaIV\PracticaVI\bin\Debug\netcoreapp2.1\PracticaVI.pdb
+E:\.NET CORE\PracticaIV\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.csproj.AssemblyReference.cache
+E:\.NET CORE\PracticaIV\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET CORE\PracticaIV\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.AssemblyInfoInputs.cache
+E:\.NET CORE\PracticaIV\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.AssemblyInfo.cs
+E:\.NET CORE\PracticaIV\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.csproj.CoreCompileInputs.cache
+E:\.NET CORE\PracticaIV\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.dll
+E:\.NET CORE\PracticaIV\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.pdb
+E:\.NET CORE\PracticaIV\PracticaVI\obj\Debug\netcoreapp2.1\PracticaVI.genruntimeconfig.cache
